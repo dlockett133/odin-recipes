@@ -1,1 +1,1 @@
-In this project I will be building a recipe website.
+In this project I will be building a beta recipe website.
